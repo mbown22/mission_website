@@ -13,7 +13,7 @@
     font-family: 'Georgia, 'Times New Roman', Times, serif';
     font-size: xx-large;
     text-align: center;
-    background-color: beige;
+    background-color: rgb(235, 227, 193);
 
 }
 
@@ -22,9 +22,8 @@
     font-size: small;
     font-style: italic;
     text-align: center;
-    background-color: aquamarine;
+    background-color: rgb(127, 193, 255);
     position: fixed;
-    
     bottom: 0px;
 
 }
